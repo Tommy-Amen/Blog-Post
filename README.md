@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This repository contains the code for a Multi-Pageg blog. 
+This repository contains the code for a Multi-Paged blog. 
 It features a modern and minimalistic web design focusing on visual appeal and user experience.
 
 ## Features
